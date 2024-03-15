@@ -39,7 +39,7 @@ export const Hero: React.FC = () => {
               data-aos="fade-down"
               data-aos-delay="200"
             >
-              I build cool stuff :)
+              Build cool stuff :)
             </p>
 {/*             <div
               className="flex flex-col items-center max-w-xs mx-auto gap-4 sm:max-w-none  sm:justify-center sm:flex-row sm:inline-flex"
@@ -48,7 +48,7 @@ export const Hero: React.FC = () => {
             >
               <Link
                 className="w-full justify-center flex items-center whitespace-nowrap transition duration-150 ease-in-out font-medium rounded px-4 py-1.5  text-zinc-900 bg-gradient-to-r from-white/80 via-white to-white/80 hover:bg-white group"
-                href="https://x.com/typesafegg"
+                href=""
                 target="_blank"
               >
                 Twitter{" "}
