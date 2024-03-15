@@ -42,7 +42,7 @@ export const Hero: React.FC = () => {
             >
               I build cool stuff :)
             </p>
-            <div
+{/*             <div
               className="flex flex-col items-center max-w-xs mx-auto gap-4 sm:max-w-none  sm:justify-center sm:flex-row sm:inline-flex"
               data-aos="fade-down"
               data-aos-delay="400"
@@ -55,7 +55,7 @@ export const Hero: React.FC = () => {
                 Twitter{" "}
                 <Twitter className="w-4 h-4 ml-2 text-primary-500 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out" />
               </Link>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>
